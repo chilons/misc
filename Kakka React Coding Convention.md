@@ -26,7 +26,7 @@ const LIMIT = 20;
 
 // use const for Pure Components
 export const ProfileName = ({ profile }) =&gt; {
-    return &lt;span&gt;{profile.name}&lt;/span&gt;;
+  return &lt;span&gt;{profile.name}&lt;/span&gt;;
 };
 </code></pre>
 </li>
